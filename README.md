@@ -22,8 +22,8 @@ Welcome to my GitHub! I am Saba Zarean Shahraki, a Medical Informatics researche
 
 💻 Languages & Frameworks 
 
-![Python](https://img.shields.io/badge/Python-Advanced-blue)
-![SQL](https://img.shields.io/badge/SQL-Advanced-blue)
+![Python](https://img.shields.io/badge/Python-Advanced-lightblue)
+![SQL](https://img.shields.io/badge/SQL-Advanced-lightblue)
 
 
 
