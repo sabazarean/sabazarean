@@ -11,7 +11,7 @@ Welcome to my GitHub! I am Saba Zarean Shahraki, a Medical Informatics researche
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-green)
 ![Keras](https://img.shields.io/badge/Keras-Advanced-green)
-![scikit-learn](https://img.shields.io/badge/scikit-learn-Advanced-green)
+![scikit_learn](https://img.shields.io/badge/scikit_learn-Advanced-green)
 ![Pandas](https://img.shields.io/badge/Pandas-Advanced-green)
 ![NumPy](https://img.shields.io/badge/NumPy-Advanced-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Advanced-green)
