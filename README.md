@@ -9,6 +9,3 @@ Welcome to my GitHub! I am Saba Zarean Shahraki, a Medical Informatics researche
 **Data Analysis & Visualization:** Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn  
 **Medical / Clinical Data Handling:** Oncology data, clinical datasets, feature engineering, risk modeling  
 
-**Other Tools:** SPSS, Microsoft Office, LaTeX  
-
-**Languages:** Farsi (native), English (TOEFL iBT: Reading 25, Listening 21, Speaking 24, Writing 24)  
