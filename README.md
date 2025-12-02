@@ -9,3 +9,8 @@ Welcome to my GitHub! I am Saba Zarean Shahraki, a Medical Informatics researche
 **Data Analysis & Visualization:** Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn  
 **Medical / Clinical Data Handling:** Oncology data, clinical datasets, feature engineering, risk modeling  
 
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-green)
+![Medical Informatics](https://img.shields.io/badge/Medical_Informatics-Researcher-purple)
+
+
