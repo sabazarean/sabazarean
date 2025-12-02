@@ -4,13 +4,23 @@ Welcome to my GitHub! I am Saba Zarean Shahraki, a Medical Informatics researche
 
 ## 🛠️ Technical Skills  
 
-**Programming & Data Science:** Python, R, SQL  
-**ML / Deep Learning:** TensorFlow, PyTorch, Keras — Survival Analysis, Classification, Regression, Time-to-Event Modeling  
-**Data Analysis & Visualization:** Pandas, NumPy, SciPy, Scikit-learn, Matplotlib, Seaborn  
-**Medical / Clinical Data Handling:** Oncology data, clinical datasets, feature engineering, risk modeling  
+![Data Science](https://img.shields.io/badge/Data_Science-%231572B6.svg)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-%2300C853.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23007ACC.svg)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2338A1DB.svg)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-%23FF4081.svg)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-%237257FF.svg)
+![Data Preparation](https://img.shields.io/badge/Data_Preparation-%23FFB300.svg)
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-Advanced-green)
-![Medical Informatics](https://img.shields.io/badge/Medical_Informatics-Researcher-purple)
+💻 Languages & Frameworks Badges
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg)
+![SQL](https://img.shields.io/badge/SQL-%23CC2927.svg)
+
 
 
